@@ -1,0 +1,235 @@
+{
+    "courses": [
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "CC100",
+        "description": "Introduction to Computing",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "CC101",
+        "description": "Computer Programming 1",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "GE1",
+        "description": "Understanding the Self",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "GE3",
+        "description": "Mathematics in the Modern World",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "GE4",
+        "description": "Purposive Communication",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "NSTP1",
+        "description": "National Service Training Program 1",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "1st",
+        "code": "PE1",
+        "description": "Physical Education 1",
+        "credit": "2.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "2nd",
+        "code": "CC102",
+        "description": "Computer Programming 2",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "2nd",
+        "code": "GE9",
+        "description": "The Contemporary World",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "2nd",
+        "code": "GE2",
+        "description": "Readings in Philippine History",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "2nd",
+        "code": "GE5",
+        "description": "Science, Technology, and Society",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "2nd",
+        "code": "NSTP2",
+        "description": "National Service Training Program 2",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "1st",
+        "sem": "2nd",
+        "code": "PE2",
+        "description": "Physical Education 2",
+        "credit": "2.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "1st",
+        "code": "CC103",
+        "description": "Data Structures and Algorithms",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "1st",
+        "code": "CC104",
+        "description": "Operating Systems",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "1st",
+        "code": "GE6",
+        "description": "Art Appreciation",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "1st",
+        "code": "PE3",
+        "description": "Physical Education 3",
+        "credit": "2.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "2nd",
+        "code": "CC105",
+        "description": "Database Management Systems",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "2nd",
+        "code": "CC106",
+        "description": "Networking 1",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "2nd",
+        "code": "CC107",
+        "description": "Web Development",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "2nd",
+        "code": "GE7",
+        "description": "Ethics",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "2nd",
+        "sem": "2nd",
+        "code": "PE4",
+        "description": "Physical Education 4",
+        "credit": "2.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "1st",
+        "code": "CC108",
+        "description": "Software Engineering 1",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "1st",
+        "code": "CC109",
+        "description": "Networking 2",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "1st",
+        "code": "CC110",
+        "description": "IT Elective 1",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "1st",
+        "code": "GE8",
+        "description": "Life and Works of Rizal",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "2nd",
+        "code": "CC111",
+        "description": "Software Engineering 2",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "2nd",
+        "code": "CC112",
+        "description": "IT Capstone Project 1",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "3rd",
+        "sem": "2nd",
+        "code": "CC113",
+        "description": "IT Elective 2",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "4th",
+        "sem": "1st",
+        "code": "CC114",
+        "description": "IT Capstone Project 2",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "4th",
+        "sem": "1st",
+        "code": "CC115",
+        "description": "IT Elective 3",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "4th",
+        "sem": "1st",
+        "code": "GE10",
+        "description": "Gender and Society",
+        "credit": "3.0"
+      },
+      {
+        "year_level": "4th",
+        "sem": "2nd",
+        "code": "CC116",
+        "description": "Internship",
+        "credit": "6.0"
+      }
+    ]
+  }
